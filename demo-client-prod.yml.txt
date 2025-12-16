@@ -1,0 +1,4 @@
+spring:
+  profiles: prod
+
+config.message: "Message from PROD profile"

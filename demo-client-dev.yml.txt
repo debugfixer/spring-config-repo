@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+
+config.message: "Message from DEV profile"
